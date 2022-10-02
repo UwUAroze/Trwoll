@@ -1,0 +1,7 @@
+name: Trwoll
+version: '${project.version}'
+main: me.aroze.twroll.Twroll
+api-version: 1.19
+authors: [ Aroze ]
+description: Epic plugin with epic trolls and epic epicness
+website: aroze.me
